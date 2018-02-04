@@ -9,6 +9,6 @@ https://download.docker.com/mac/edge/appcast.xml
 ```
 Use the appropreate file for which ever channel you are surfing through.
 
-Yes, there should be a way to go grab the top-end number and subtrack some fixed number from that to create an auto-search of the last X number of builds....but I didn't have the time nor energy to do that.  Feel free to fork and contribute back if you do :)
+Yes, there should be a way to go grab the top-end number and subtract some fixed number from that to create an auto-search of the last X number of builds....but I didn't have the time nor energy to do that.  Feel free to fork and contribute back if you do :)
 
 This script is based on one I found in the Docker for-mac Github project, issue #1120 (https://github.com/docker/for-mac/issues/1120)
